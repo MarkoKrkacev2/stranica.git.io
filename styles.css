@@ -1,0 +1,37 @@
+.menu_text_header {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.menu_text_basic {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.menu_text_footer {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.menu_button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transform: translateY(+100%) translateX(-200%);
+
+}
+
+.menu_image {
+    height: 600px;
+    width: 1200px;
+    border: 5px outset red;
+}
